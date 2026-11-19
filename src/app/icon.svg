@@ -1,0 +1,19 @@
+<svg width="32" height="32" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="40" height="40" rx="8" fill="#000000" />
+  <!-- Architectural 3D Isometric Cube/Prism 'F' Mark -->
+  <polygon points="14,4 28,4 34,9 20,9" fill="#FFFFFF" fill-opacity="0.95" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round" />
+  <polygon points="20,9 34,9 34,14 20,14" fill="#FFFFFF" fill-opacity="0.4" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round" />
+  <polygon points="14,17 24,17 28,21 18,21" fill="#FFFFFF" fill-opacity="0.9" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round" />
+  <polygon points="18,21 28,21 28,25 18,25" fill="#FFFFFF" fill-opacity="0.4" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round" />
+  <polygon points="8,9 14,4 14,35 8,30" fill="#FFFFFF" fill-opacity="1" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round" />
+  <polygon points="14,4 20,9 20,35 14,35" fill="#FFFFFF" fill-opacity="0.65" stroke="#FFFFFF" stroke-width="1.2" stroke-linejoin="round" />
+  <line x1="8" y1="9" x2="14" y2="4" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="14" y1="4" x2="28" y2="4" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="28" y1="4" x2="34" y2="9" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="34" y1="9" x2="34" y2="14" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="34" y1="14" x2="20" y2="14" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="20" y1="14" x2="20" y2="35" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="20" y1="35" x2="14" y2="35" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="14" y1="35" x2="8" y2="30" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="8" y1="30" x2="8" y2="9" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" />
+</svg>
